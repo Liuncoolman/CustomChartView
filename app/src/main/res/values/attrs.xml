@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="custom_chart_view">
+        <attr name="xAxisTitle" format="string" />
+        <attr name="yAxisTitle" format="string" />
+        <attr name="mAxisTextColor" format="integer" />
+        <attr name="mAxisTextSize" format="float" />
+
+    </declare-styleable>
+</resources>
